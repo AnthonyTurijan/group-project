@@ -25,14 +25,19 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+
 .jane-style {
     color: rgb(156, 57, 107);
+
+.anthony-style {
+    color: hotpink;
+
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: green;
     background-color: lightblue;
     padding: 3px;
 }
