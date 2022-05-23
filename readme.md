@@ -1,4 +1,6 @@
-# Hey! Let's learn about GitHub commands! 
+# Class Roster Project
+Contributed by
+Natalia
 joe 
 ## Follow this sequence in order to correctly fork and clone this repository:
 
